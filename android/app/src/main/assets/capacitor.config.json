@@ -1,0 +1,6 @@
+{
+	"appId": "com.idemia.capacitor.poc",
+	"appName": "Capacitor PoC",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
